@@ -138,3 +138,19 @@ I am also expanding my expertise in AI and cloud technologies, with Oracle certi
 - Product Engineering & Software Development
 
 
+## AI / ML Expertise
+
+| Domain | Proficiency | Details |
+|---|---|---|
+| AI Foundations | Foundation | Understanding of core AI concepts through Oracle Cloud AI Foundations certification. |
+| Generative AI | Foundation | Building foundational knowledge of Generative AI concepts and practical enterprise use cases. |
+| AI Agent Development | Foundation | Completed Oracle Foundation AI Agent Studio training with focus on AI agent concepts and capabilities. |
+| Cloud AI | Foundation | Exposure to AI capabilities within Oracle Cloud Infrastructure (OCI). |
+| AI-Enabled Applications | Developing | Exploring how AI capabilities can be integrated with backend services and enterprise applications. |
+
+> **Current Direction:** Expanding from Java backend engineering into AI-enabled enterprise application development, with a focus on combining Spring Boot, APIs, cloud technologies, and emerging AI capabilities.
+
+
+
+
+
