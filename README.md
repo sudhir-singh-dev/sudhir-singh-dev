@@ -371,7 +371,7 @@ Supported WhiteOak and IDFC Mutual Fund enterprise applications, working on back
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=sudhir-singh-dev&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD&icon_color=8B5CF6"
+    src="https://github-stats-extended.vercel.app/api?username=sudhir-singh-dev&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD&icon_color=8B5CF6"
     height="180"
     alt="GitHub Stats"
   />
@@ -384,7 +384,7 @@ Supported WhiteOak and IDFC Mutual Fund enterprise applications, working on back
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudhir-singh-dev&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=sudhir-singh-dev&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD"
     height="180"
     alt="Top Languages"
   />
