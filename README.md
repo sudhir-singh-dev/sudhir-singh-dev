@@ -66,3 +66,25 @@
     alt="GitHub stars"
   />
 </p>
+
+## About Me
+
+Java Backend Developer with 3.8 years of experience building enterprise applications across financial services, product lifecycle management, and logistics domains.
+
+I specialize in Java, Spring Boot, Spring MVC, Spring Data JPA, Hibernate, REST APIs, Microservices, SQL, and backend application development. I enjoy designing reliable APIs, integrating enterprise systems, optimizing backend workflows, and solving production-level engineering problems.
+
+My experience includes enterprise application customization, API integration, workflow automation, database-driven applications, and cloud-based development using Oracle Cloud Infrastructure (OCI). I have worked with Agile/Scrum practices and modern engineering tools including Maven, Git, Jenkins/CI-CD, Docker, JUnit, Mockito, and Postman.
+
+I am also expanding my expertise in AI and cloud technologies, with Oracle certifications in Java, OCI, and AI-focused technologies, while building practical backend systems that combine scalable architecture with automation and intelligent capabilities.
+
+### Open To
+
+- Java Backend Developer
+- Java / Spring Boot Engineer
+- Backend & Microservices Development
+- Enterprise Application Engineering
+- Cloud & Integration Engineering
+- AI-enabled Backend Applications
+- Product Engineering & Software Development
+
+
