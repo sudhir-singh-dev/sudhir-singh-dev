@@ -192,6 +192,45 @@ The project strengthened backend workflow efficiency and enterprise integration 
 </details>
 
 
+<details>
+<summary><strong>🔹 Financial Services Web Application — WhiteOak & IDFC Mutual Fund</strong></summary>
+
+<br>
+
+### Project Overview
+
+Enterprise web application development for **WhiteOak and IDFC Mutual Fund**, involving Java backend development and application support within the financial-services domain.
+
+| Category | Details |
+|---|---|
+| **Stack** | Java · Spring · REST APIs · SQL · Maven · Git |
+| **Scale** | Enterprise financial-services web application |
+| **Performance** | Focused on reliable backend application functionality and issue resolution |
+| **Security** | Worked within enterprise application and financial-services environments |
+| **Impact** | Supported application development, maintenance, and delivery of business requirements |
+| **Repository** | Private enterprise project |
+
+### Engineering Contributions
+
+- Developed and maintained backend functionality using **Java** for enterprise financial-services applications.
+- Worked on application enhancements and business requirements for **WhiteOak and IDFC Mutual Fund** platforms.
+- Implemented and supported backend components and application functionality.
+- Worked with **SQL and database-driven application operations**.
+- Participated in debugging, issue analysis, and application maintenance.
+- Collaborated with the development team to deliver application changes within an **Agile/Scrum** environment.
+
+### Professional Impact
+
+Contributed to enterprise financial-services application development and maintenance, gaining hands-on experience in Java backend engineering, business application workflows, database operations, and production-oriented software development.
+
+**Domain:** Financial Services / Mutual Funds  
+**Role:** Java Developer  
+**Company:** Sterling Software Pvt Ltd  
+**Environment:** Enterprise Web Application
+
+</details>
+
+
 
 
 
