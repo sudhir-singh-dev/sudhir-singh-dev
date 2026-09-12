@@ -151,6 +151,48 @@ I am also expanding my expertise in AI and cloud technologies, with Oracle certi
 > **Current Direction:** Expanding from Java backend engineering into AI-enabled enterprise application development, with a focus on combining Spring Boot, APIs, cloud technologies, and emerging AI capabilities.
 
 
+## Featured Projects
+
+<details>
+<summary><strong>🔹 Agile PLM Customization & Enterprise Integration — Dell</strong></summary>
+
+<br>
+
+### Project Overview
+
+Enterprise Product Lifecycle Management solution customized for Dell, with a focus on backend development, workflow automation, API integration, and Agile PLM customization using Java and the Agile SDK.
+
+| Category | Details |
+|---|---|
+| **Stack** | Java 8 · Spring Boot · REST APIs · Agile SDK · Microservices · SQL |
+| **Scale** | Enterprise PLM application supporting product and lifecycle workflows |
+| **Performance** | Achieved approximately **20% API latency reduction** through backend and process optimization |
+| **Security** | Enterprise API integration and controlled backend service access |
+| **Impact** | Improved PLM workflow efficiency by approximately **30%** |
+| **Repository** | Private enterprise project |
+
+### Engineering Contributions
+
+- Customized Oracle Agile PLM functionality using **Agile SDK and Java** to support enterprise-specific business requirements.
+- Developed backend functionality using **Java 8 and Spring Boot**.
+- Integrated Agile PLM APIs with **Spring Boot microservices** and REST-based services.
+- Implemented backend workflow enhancements and process automation for PLM operations.
+- Worked with enterprise data and SQL-based operations to support application functionality.
+- Troubleshot application and integration issues across backend services and enterprise systems.
+- Collaborated within an **Agile/Scrum** development environment to deliver enhancements and production fixes.
+
+### Professional Impact
+
+The project strengthened backend workflow efficiency and enterprise integration by combining Java-based services with Agile PLM customization. Backend and process optimization contributed to approximately **20% lower API latency** and a **30% improvement in PLM workflow cycle time**.
+
+**Domain:** Product Lifecycle Management (PLM)  
+**Role:** Java Developer  
+**Environment:** Enterprise / Production
+
+</details>
+
+
+
 
 
 
