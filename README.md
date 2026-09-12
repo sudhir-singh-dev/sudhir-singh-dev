@@ -79,6 +79,56 @@ I am also expanding my expertise in AI and cloud technologies, with Oracle certi
 
 ### Open To
 
+
+
+## Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java" height="48" alt="Java" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="48" alt="SQL / MySQL" />
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css" height="48" alt="HTML CSS" />
+</p>
+
+### Backend & Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,hibernate,mysql,oracle" height="48" alt="Spring Hibernate MySQL Oracle" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/REST%20APIs-7C3AED?style=for-the-badge" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/Microservices-5B21B6?style=for-the-badge" alt="Microservices" />
+  <img src="https://img.shields.io/badge/JPA%20%2F%20Hibernate-312E81?style=for-the-badge" alt="JPA Hibernate" />
+</p>
+
+### Cloud, DevOps & Tooling
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,maven,jenkins,docker,aws" height="48" alt="Git GitHub Maven Jenkins Docker AWS" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Oracle%20Cloud%20Infrastructure-7C3AED?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Cloud Infrastructure" />
+  <img src="https://img.shields.io/badge/Postman-5B21B6?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/JUnit-6D28D9?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit" />
+  <img src="https://img.shields.io/badge/Mockito-312E81?style=for-the-badge" alt="Mockito" />
+</p>
+
+**Core Java:** OOP · Collections · Generics · Multithreading · Exception Handling · Stream API · Lambda Expressions · ExecutorService · Thread Pools
+
+**Engineering:** REST API Development · Microservices · API Integration · Database Transactions · Query Optimization · Unit Testing · Agile/Scrum
+
+
+
+
 - Java Backend Developer
 - Java / Spring Boot Engineer
 - Backend & Microservices Development
