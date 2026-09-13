@@ -43,7 +43,6 @@
 
 ## 🟣 About Me
 
-```yaml
 name: "Sudhir Singh"
 role: "Java Backend Developer"
 experience: "3.8+ years"
@@ -98,7 +97,7 @@ open_to:
   - Microservices & Cloud Engineering
   - Enterprise Software Engineering
   - AI-enabled Backend Applications
-```
+
 
 I build enterprise backend systems focused on reliability, maintainability, API integration, performance, and production support — across shipment tracking, PLM integrations, and high-volume financial-services applications.
 
