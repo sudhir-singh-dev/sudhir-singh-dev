@@ -48,12 +48,8 @@ I'm currently expanding into **AI agent development and Oracle Cloud Infrastruct
 ## 🟣 Tech Stack
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=18&duration=2600&pause=800&color=A78BFA&center=true&vCenter=true&repeat=true&width=750&height=35&lines=Java+%7C+Spring+Boot+%7C+Spring+MVC+%7C+Hibernate;REST+APIs+%7C+Microservices+%7C+API+Gateway;Apache+Kafka+%7C+Zookeeper+%7C+Async+Processing;Docker+%7C+Kubernetes+%7C+Jenkins+%7C+AWS+%7C+OCI;JUnit+5+%7C+Mockito+%7C+Postman" alt="Tech stack typing animation"/>
-</div>
 
-<div align="center">
-
-<img src="https://tech-stack.wontory.dev/api/orbit?text=Sudhir&slugs=openjdk,springboot,hibernate,mysql,oracle,apachekafka,docker,kubernetes,git,github,apachemaven,jenkins,amazonwebservices" alt="Animated Tech Stack Orbit" width="480" />
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,oracle,kafka,docker,kubernetes,git,github,maven,jenkins,aws&theme=dark" alt="Tech Stack Icons" />
 
 <br/><br/>
 
