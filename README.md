@@ -303,5 +303,3 @@ Oracle
 <em>"Building reliable backend systems with clean architecture, measurable impact, and continuous learning."</em>
 
 <br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:4C1D95,100:0F0C29&height=160&section=footer" width="100%" alt="Footer"/> </div>
