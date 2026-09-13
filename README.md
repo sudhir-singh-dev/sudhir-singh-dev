@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,25:1A1033,50:4C1D95,75:6D28D9,100:7C3AED&height=260&section=header&text=Sudhir%20Singh&fontSize=56&fontColor=FFFFFF&fontAlignY=35&animation=fadeIn&desc=Java%20Backend%20Developer%20%7C%20Spring%20Boot%20%7C%20Microservices&descSize=18&descAlignY=58&descColor=C4B5FD" width="100%" alt="Sudhir Singh Header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,25:1A1033,50:4C1D95,75:6D28D9,100:7C3AED&height=260&section=header&text=Sudhir%20Singh&fontSize=56&fontColor=FFFFFF&fontAlignY=35&animation=fadeIn&desc=Java%20Backend%20Developer%20%7C%20Spring%20Boot%20%7C%20Microservices&d
+  escSize=18&descAlignY=58&descColor=C4B5FD" width="100%" alt="Sudhir Singh Header"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=23&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&repeat=true&width=900&height=55&lines=Java+8%2F17+%7C+Spring+Boot+%7C+Spring+MVC+%7C+Hibernate;Building+Scalable+Enterprise+Backend+Systems;3.8%2B+Years+in+Logistics%2C+PLM+%26+Financial+Services;REST+APIs+%7C+Microservices+%7C+Apache+Kafka;Now+Exploring+AI+Agents+%2B+Cloud+Engineering" alt="Typing SVG"/>
 
@@ -287,3 +288,21 @@ Oracle
 </div> <br/> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&width=100%25" width="100%" alt="section divider"/> </div>
 🟣 Contribution Snake
 <div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sudhir-singh-dev/sudhir-singh-dev/output/github-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sudhir-singh-dev/sudhir-singh-dev/output/github-snake.svg" /> <img src="https://raw.githubusercontent.com/sudhir-singh-dev/sudhir-singh-dev/output/github-snake.svg" width="100%" alt="GitHub Contribution Snake" /> </picture> </div> <br/> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&width=100%25" width="100%" alt="section divider"/> </div>
+
+
+
+
+
+
+
+
+
+<br/> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&width=100%25" width="100%" alt="section divider"/> </div>
+🟣 Connect With Me
+<div align="center"> <a href="./Sudhir_Singh_Java_Developer_Resume.pdf"> <img src="https://img.shields.io/badge/Download-Resume%20PDF-7C3AED?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Resume"/> </a> <a href="mailto:sudhirsingh30041@gmail.com"> <img src="https://img.shields.io/badge/Gmail-sudhirsingh30041%40gmail.com-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/> </a> <a href="https://www.linkedin.com/in/sudhirsinghdev/"> <img src="https://img.shields.io/badge/LinkedIn-Sudhir%20Singh-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="https://github.com/sudhir-singh-dev"> <img src="https://img.shields.io/badge/GitHub-sudhir--singh--dev-312E81?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> <a href="https://sudhir-singh-dev-portfolio-blond.vercel.app/"> <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/> </a> </div> <br/> <div align="center">
+
+<em>"Building reliable backend systems with clean architecture, measurable impact, and continuous learning."</em>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:4C1D95,100:0F0C29&height=160&section=footer" width="100%" alt="Footer"/> </div>
