@@ -1,0 +1,44 @@
+name: Generate Animated Tech Orbit
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+  schedule:
+    - cron: '0 0 * * 0'  # weekly refresh, optional
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Create output folder
+        run: mkdir -p assets/profile
+
+      - name: Generate dark orbit SVG
+        uses: yoshi389111/tech-orbit-animation@v1
+        with:
+          github-user: sudhir-singh-dev
+          output: assets/profile/tech-orbit-dark.svg
+          theme: dark
+          items: "java,spring,hibernate,mysql,oracle,kafka,docker,kubernetes,git,github,maven,jenkins,amazonwebservices,postman,junit"
+
+      - name: Generate light orbit SVG
+        uses: yoshi389111/tech-orbit-animation@v1
+        with:
+          github-user: sudhir-singh-dev
+          output: assets/profile/tech-orbit-light.svg
+          theme: light
+          items: "java,spring,hibernate,mysql,oracle,kafka,docker,kubernetes,git,github,maven,jenkins,amazonwebservices,postman,junit"
+
+      - name: Commit and push if changed
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/profile/tech-orbit-dark.svg assets/profile/tech-orbit-light.svg
+          git diff --quiet && git diff --staged --quiet || git commit -m "chore: update animated tech orbit"
+          git push
