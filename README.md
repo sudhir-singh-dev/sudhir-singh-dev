@@ -53,7 +53,7 @@ I'm currently expanding into **AI agent development and Oracle Cloud Infrastruct
 
 <div align="center">
 
-<img src="https://tech-stack.wontory.dev/api/orbit?text=Sudhir&slugs=java,spring,hibernate,mysql,oracle,apachekafka,docker,kubernetes,git,github,apachemaven,jenkins,amazonaws" alt="Animated Tech Stack Orbit" width="480" />
+<img src="https://tech-stack.wontory.dev/api/orbit?text=Sudhir&slugs=openjdk,springboot,hibernate,mysql,oracle,apachekafka,docker,kubernetes,git,github,apachemaven,jenkins,amazonwebservices" alt="Animated Tech Stack Orbit" width="480" />
 
 <br/><br/>
 
