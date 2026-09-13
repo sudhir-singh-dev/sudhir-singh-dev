@@ -53,8 +53,7 @@ I'm currently expanding into **AI agent development and Oracle Cloud Infrastruct
 
 <div align="center">
 
-<!-- TEMPORARY: static icons, working right now. Swap for the orbit-animation SVG once the GitHub Action (below) has run once. -->
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,oracle,kafka,docker,kubernetes,git,github,maven,jenkins,aws&theme=dark" alt="Tech Stack Icons" />
+<img src="https://tech-stack.wontory.dev/api/orbit?text=Sudhir&slugs=java,spring,hibernate,mysql,oracle,apachekafka,docker,kubernetes,git,github,apachemaven,jenkins,amazonaws" alt="Animated Tech Stack Orbit" width="480" />
 
 <br/><br/>
 
