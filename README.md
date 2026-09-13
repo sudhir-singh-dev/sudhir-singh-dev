@@ -63,6 +63,13 @@ core:
   - SQL
   - Apache Kafka
 
+security_and_api:
+  - Spring Security
+  - JWT
+  - OAuth2
+  - Swagger / OpenAPI
+  - API Gateway
+
 cloud_and_devops:
   - Docker
   - Kubernetes
@@ -71,6 +78,13 @@ cloud_and_devops:
   - OCI
   - Git / GitHub
   - Maven
+
+testing:
+  - JUnit 5
+  - Mockito
+  - Postman
+  - Regression Testing
+  - Debugging
 
 currently_expanding:
   - AI Agent Development
