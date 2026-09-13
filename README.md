@@ -297,7 +297,6 @@ Oracle
 
 
 
-<br/> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&width=100%25" width="100%" alt="section divider"/> </div>
 🟣 Connect With Me
 <div align="center"> <a href="./Sudhir_Singh_Java_Developer_Resume.pdf"> <img src="https://img.shields.io/badge/Download-Resume%20PDF-7C3AED?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Resume"/> </a> <a href="mailto:sudhirsingh30041@gmail.com"> <img src="https://img.shields.io/badge/Gmail-sudhirsingh30041%40gmail.com-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/> </a> <a href="https://www.linkedin.com/in/sudhirsinghdev/"> <img src="https://img.shields.io/badge/LinkedIn-Sudhir%20Singh-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="https://github.com/sudhir-singh-dev"> <img src="https://img.shields.io/badge/GitHub-sudhir--singh--dev-312E81?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> <a href="https://sudhir-singh-dev-portfolio-blond.vercel.app/"> <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/> </a> </div> <br/> <div align="center">
 
