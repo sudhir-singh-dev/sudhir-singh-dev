@@ -2,8 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,25:1A1033,50:4C1D95,75:6D28D9,100:7C3AED&height=220&section=header&text=Sudhir%20Singh&fontSize=52&fontColor=FFFFFF&fontAlignY=35&animation=fadeIn&desc=Java%20Backend%20Developer%20%7C%20Spring%20Boot%20%7C%20Microservices&descSize=18&descAlignY=58&descColor=C4B5FD" width="100%" alt="Sudhir Singh Header"/>
 
-**Java 8/17 · Spring Boot · REST APIs · Microservices · Apache Kafka**
-4+ years across Logistics, Product Lifecycle Management (PLM), and Financial Services
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&repeat=true&width=900&height=55&lines=Java+8%2F17+%7C+Spring+Boot+%7C+Spring+MVC+%7C+Hibernate;Now+Exploring+AI+Agents+%2B+Cloud+Engineering;Building+Scalable+Enterprise+Backend+Systems;4%2B+Years+in+Logistics%2C+PLM+%26+Financial+Services;REST+APIs+%7C+Microservices+%7C+Apache+Kafka" alt="Typing SVG"/>
 
 <img src="https://img.shields.io/badge/B.Tech-Computer%20Science-7C3AED?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="B.Tech Computer Science"/>
 <img src="https://img.shields.io/badge/Bangalore-1E1B4B?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Bangalore"/>
@@ -36,7 +35,9 @@ I build enterprise backend systems focused on reliability, maintainability, and 
 
 I'm currently expanding into **AI agent development and Oracle Cloud Infrastructure**, aiming to combine solid backend fundamentals with practical enterprise AI use cases.
 
-**Open to:** Java Backend Developer · Spring Boot Engineer · Microservices & Cloud Engineering · Enterprise Software Engineering
+**Open to:**
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=16&duration=2500&pause=800&color=C4B5FD&center=false&vCenter=true&repeat=true&width=650&height=30&lines=Java+Backend+Developer;Spring+Boot+Engineer;Microservices+%26+Cloud+Engineering;Enterprise+Software+Engineering" alt="Open to roles"/>
 
 <br/>
 
@@ -277,6 +278,11 @@ Supported WhiteOak and IDFC Mutual Fund enterprise applications — backend busi
 ## 🟣 Connect With Me
 
 <div align="center">
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&repeat=true&width=700&height=35&lines=Let's+build+something+reliable+together;Open+to+Java+%2F+Spring+Boot+roles;Always+happy+to+talk+backend+architecture" alt="Connect typing animation"/>
+
+<br/><br/>
+
 <a href="./Sudhir_Singh_Java_Developer_Resume.pdf">
   <img src="https://img.shields.io/badge/Download-Resume%20PDF-7C3AED?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Resume"/>
 </a>
